@@ -74,7 +74,7 @@ RTL realization
 ![image](https://github.com/Oviya49/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/153576803/bd978fc0-a27b-49cc-936c-4a32ad973568)
 
 Output:
-RTL
+
 ![image](https://github.com/Oviya49/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/153576803/fb5eb31f-80de-4f72-ba39-961c477a3fd0)
 
 
